@@ -1,6 +1,4 @@
-<div align="right">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<img align="right" height="150" src="https://img.freepik.com/premium-photo/anime-girl-programmer-working-code-project_1282444-263471.jpg"  />
 
 ###
 
